@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: c5eece9d5b500114ba70b280377a70b9
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -801675060067284730
+    second: ethane|ethaneAction.002
+  - first:
+      74: 2396661063010020235
+    second: ethane|methaneAction.002
+  - first:
+      74: -4790655000651207081
+    second: ethane|PlaneAction
+  - first:
+      74: 8907280859743262987
+    second: ethane|propaneAction.002
+  - first:
+      74: -8723326464417096378
+    second: ethane|Shape_IndexedFaceSet.006Action.002
+  - first:
+      74: 2872220869014484638
+    second: methane|ethaneAction.002
+  - first:
+      74: -8504678535013625766
+    second: methane|methaneAction.002
+  - first:
+      74: -7962250339816135488
+    second: methane|PlaneAction
+  - first:
+      74: -518491828811369032
+    second: methane|propaneAction.002
+  - first:
+      74: -6661313209059837515
+    second: methane|Shape_IndexedFaceSet.006Action.002
+  - first:
+      74: -392064419320258780
+    second: propane|ethaneAction.002
+  - first:
+      74: 8659168120154682153
+    second: propane|methaneAction.002
+  - first:
+      74: 7118579769171240469
+    second: propane|PlaneAction
+  - first:
+      74: -7105148901952904296
+    second: propane|propaneAction.002
+  - first:
+      74: -3975082046509902597
+    second: propane|Shape_IndexedFaceSet.006Action.002
+  - first:
+      74: 7478875459573720719
+    second: Butate|ethaneAction.002
+  - first:
+      74: -4982054317058792190
+    second: Butate|methaneAction.002
+  - first:
+      74: -7545422285135159662
+    second: Butate|PlaneAction
+  - first:
+      74: 7810881976638769475
+    second: Butate|propaneAction.002
+  - first:
+      74: -4682508159239417322
+    second: Butate|Shape_IndexedFaceSet.006Action.002
+  - first:
+      74: -7827731521412807827
+    second: Plane|ethaneAction.002
+  - first:
+      74: -221043253641911667
+    second: Plane|methaneAction.002
+  - first:
+      74: -5187248419258813496
+    second: Plane|PlaneAction
+  - first:
+      74: 2375964788016905650
+    second: Plane|propaneAction.002
+  - first:
+      74: 3283344686219613621
+    second: Plane|Shape_IndexedFaceSet.006Action.002
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
