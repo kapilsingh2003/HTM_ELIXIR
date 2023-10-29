@@ -13,3 +13,5 @@ You can use either a hard copy of the image target to augment the objects or els
 
 For now we have only one image target for all the subjects but in practical use, we will have entire textbooks with several pages where each model can be set to augment on a particular page of the book.
 
+### APK Link and Image Target:
+https://drive.google.com/drive/folders/1rYiT4GNs6qwmioDVtyOIQjO8kXyVSgjz?usp=sharing
